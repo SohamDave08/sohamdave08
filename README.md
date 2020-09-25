@@ -6,6 +6,7 @@ I began my journey in software development as a freelancer nearly 1 year ago, Iâ
 
 I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1TNWe6QhYEiCzT4s1T8jOw30HbnXx55sH/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
 
