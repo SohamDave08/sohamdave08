@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey 👋, This is Soham Dave
+[![Gmail Badge](https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com)](mailto:dave.soham2000@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-sohamdave08-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/)](https://www.linkedin.com/in/sohamdave08/) [![Github Badge](https://img.shields.io/badge/-SohamDave08-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SohamDave08/)](https://www.github.com/SohamDave08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sohamdave.netlify.app//)](https://sohamdave.netlify.app//) <p align='left'>A curious Computer Science student willing to start my career with an organization that will utilize my Technical & Interpersonal skills to benefit mutual growth and success. 
 
-<!--
-**SohamDave08/sohamdave08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I began my journey in software development as a freelancer nearly 1 year ago, I’ve done remote work for software consulting agencies, startups, and collaborated with motivated coders to create digital ideas improving the consumer’s life.
 
-Here are some ideas to get you started:
+I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
+</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1TNWe6QhYEiCzT4s1T8jOw30HbnXx55sH/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SohamDave08&show_icons=true&include_all_commits=true)](https://github.com/SohamDave08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDave08&layout=compact)](https://github.com/SohamDave08/github-readme-stats)
