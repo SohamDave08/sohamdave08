@@ -4,7 +4,7 @@
 
 I began my journey in software development as a freelancer nearly 1 year ago, I’ve done remote work for software consulting agencies, startups, and collaborated with motivated coders to create digital ideas improving the consumer’s life.
 
-I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
+I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019 with an <b>All India Rank of 104</b>. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1p7610EBT-whZEZfWxII0by_CVUjRW-fZ/view?usp=sharing' target="_blank"><u>here</u>.</a></p>
 
 ## Some of my Github Stats
