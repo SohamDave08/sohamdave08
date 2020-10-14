@@ -11,9 +11,9 @@ Looking forward to contributing to the open-source community. Reach me out on th
 <br>
 </p>
 
-## &#x270d; Blogs
+## &#x270d; Technical Content Writing
 <p align='left'> 
-Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my articles on <a href="https://medium.com/@SohamDave08" target="_blank">Medium</a> or read my articles on <a href="https://auth.geeksforgeeks.org/user/sohamdave/articles" target="_blank">GeeksForGeeks</a>.
+Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my blogs on <a href="https://medium.com/@SohamDave08" target="_blank">Medium</a> or read my articles on <a href="https://auth.geeksforgeeks.org/user/sohamdave/articles" target="_blank">GeeksForGeeks</a>.
 <br>
 </p>
 
