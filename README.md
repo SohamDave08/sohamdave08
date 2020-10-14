@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sohamdave08-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/)](https://www.linkedin.com/in/sohamdave08/) [![Github Badge](https://img.shields.io/badge/-SohamDave08-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SohamDave08/)](https://www.github.com/SohamDave08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sohamdave.netlify.app//)](https://sohamdave.netlify.app//) <p align='left'> 
 I'm a software developer from India and love building new stuff.
   
-I began my journey in software development as a freelancer nearly 1 year ago, I’ve done remote work for software consulting agencies, startups, and collaborated with motivated coders to create digital ideas improving the consumer’s life.
+I'm a full-stack web developer & Technologies I'm familiar with include VueJS as a frontend framework, NodeJS as a backend framework, and databases like MongoDB, Firebase, MySql. Still in the urge of making the world a better place😉
 
 I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019 with an <b>All India Rank of 104</b>. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
 
