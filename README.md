@@ -7,13 +7,13 @@ I'm a full-stack web developer & technologies I'm familiar with include VueJS as
 
 I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019 with an <b>All India Rank of 104</b>. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
 
-Looking forward to contributing to the open-source community. Reach me out on the handles provided for any collaboration.
+Looking forward to contributing to the open-source community. Reach me out on the handles provided for any collaboration.  
 <br>
 </p>
 
 ## &#x270d; Blogs
 <p align='left'> 
-Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my articles on [Medium](https://medium.com/@SohamDave08).
+Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my articles on [Medium](https://medium.com/@SohamDave08).  
 <br>
 </p>
 
