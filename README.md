@@ -13,7 +13,7 @@ Looking forward to contributing to the open-source community. Reach me out on th
 
 ## &#x270d; Blogs
 <p align='left'> 
-Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my articles on [Medium](https://medium.com/@SohamDave08).  
+Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my articles on [Medium](https://medium.com/@SohamDave08).
 <br>
 </p>
 
