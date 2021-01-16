@@ -21,7 +21,7 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 
 ## My Tech Bag
 <p align='center'> 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://seeklogo.com/upload/css-logo-CE39095865-seeklogo.com.png" alt="react" width="40" height="40"/>
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="react" width="40" height="40"/>
