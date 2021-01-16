@@ -15,13 +15,18 @@ Looking forward to contributing to the open-source community. Reach me out on th
 ## &#x270d; Blogs & Articles
 <p align='left'> 
 Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my blogs on <a href="https://medium.com/@SohamDave08" target="_blank">Medium</a> or read my articles on <a href="https://auth.geeksforgeeks.org/user/sohamdave/articles" target="_blank">GeeksForGeeks</a>.
-<br>
+<br> <br>
 </p>
 
 
 ## My Tech Bag
 <p align='center'> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="react" width="40" height="40"/>
 <br>
 </p>
 
