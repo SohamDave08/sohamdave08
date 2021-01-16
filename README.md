@@ -27,6 +27,9 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="react" width="40" height="40"/>
 <br>
 </p>
 
