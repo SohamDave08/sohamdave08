@@ -23,7 +23,7 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 <p align='center'>
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/upload/css-logo-CE39095865-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fcss31600.png&f=1&nofb=1" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
