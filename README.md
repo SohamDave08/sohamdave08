@@ -1,8 +1,20 @@
 ## <h1 align=center>नमस्ते (Hello) <img src="https://raw.githubusercontent.com/SohamDave08/sohamdave08/master/coder.png" width="50px"> , I am <<a href='https://soham-dave08.web.app/'>Soham Dave</a>/></h1>
 
+
+
 <p align='center'>
-[![Gmail Badge](https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com)](mailto:dave.soham2000@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-sohamdave08-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/)](https://www.linkedin.com/in/sohamdave08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sohamdave.netlify.app//)](https://soham-dave08.web.app/) 
+  <a href='mailto:dave.soham2000@gmail.com' target="_blank">
+      <img src='https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com'>
+  </a>
+  <a href='https://www.linkedin.com/in/sohamdave08/' target="_blank">
+      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/'>
+  </a>
+  <a href='https://soham-dave08.web.app/' target="_blank">
+      <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=https://soham-dave08.web.app/' alt='Website'>
+  </a>
+  
+<!-- [![Gmail Badge](https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com)](mailto:dave.soham2000@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-sohamdave08-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/)](https://www.linkedin.com/in/sohamdave08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sohamdave.netlify.app//)](https://soham-dave08.web.app/)  -->
 </p>
 
 <p align='left'> 
