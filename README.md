@@ -12,14 +12,14 @@ Looking forward to contributing to the open-source community. Reach me out on th
 <br>
 </p>
 
-## &#x270d; Blogs & Articles
+<h2 align='center'> &#x270d; Blogs & Articles </h2> 
 <p align='left'> 
 Apart from coding, I also maintain a blogging profile exploring various technologies - you can find my blogs on <a href="https://medium.com/@SohamDave08" target="_blank">Medium</a> or read my articles on <a href="https://auth.geeksforgeeks.org/user/sohamdave/articles" target="_blank">GeeksForGeeks</a>.
 <br> <br>
 </p>
 
 
-## My Tech Bag
+<h2 align='center'> My Tech Bag </h2>
 <p align='center'>
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="react" width="40" height="40"/> &nbsp;
@@ -42,6 +42,7 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 
 
 ## Some of my Github Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=SohamDave08&show_icons=true&include_all_commits=true)](https://github.com/SohamDave08/github-readme-stats)
