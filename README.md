@@ -41,9 +41,11 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 </p>
 
 
-## Some of my Github Stats
+<h2 align='center'>Some of my GitHub Stats</h2>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
+*NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
+
+<p align=center> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=SohamDave08&show_icons=true&include_all_commits=true)](https://github.com/SohamDave08/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDave08&layout=compact)](https://github.com/SohamDave08/github-readme-stats)
