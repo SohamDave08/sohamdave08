@@ -48,4 +48,4 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 <p align=center> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=SohamDave08&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/SohamDave08/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDave08&layout=compact&theme=dark&hide=html,MakeFile&langs_count=8)](https://github.com/SohamDave08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDave08&layout=compact&theme=dark&hide=jupyternotebook,MakeFile&langs_count=8)](https://github.com/SohamDave08/github-readme-stats)
