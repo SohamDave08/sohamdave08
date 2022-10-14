@@ -1,4 +1,4 @@
-## <h1 align=center>नमस्ते (Hello) <img src="https://raw.githubusercontent.com/SohamDave08/sohamdave08/master/coder.png" width="50px"> , I am <<a href='https://soham-dave08.web.app/'>Soham Dave</a>/></h1>
+## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/SohamDave08/sohamdave08/master/coder.png" width="50px"> , I am <<a href='https://soham-dave08.web.app/'>Soham Dave</a>/></h1>
 
 
 
@@ -18,9 +18,9 @@
 </p>
 
 <p align='left'> 
-I'm a software developer from India and love building new stuff. Still in the urge of making the world a better place😉
+I'm a software developer and love building new stuff. Still in the urge of making the world a better place😉
 
-I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019 with an <b>All India Rank of 104</b>. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
+I am currently pursuing Masters of Science in Computer Science from University of Southern California with expected graduation in May 2024. I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduated in May 2022.
 
 Looking forward to contributing to the open-source community. Reach me out on the handles provided for any collaboration.  
 <br>
